@@ -1,0 +1,3 @@
+yfinance==0.1.59
+mplfinance==0.12.7a17
+bs4==0.0.1
